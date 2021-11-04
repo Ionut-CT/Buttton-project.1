@@ -1,0 +1,25 @@
+div.Title {
+  position: relative;
+  bottom: 300;
+  right: 0;
+  width: 367px;
+  border: 5px solid #73ad21;
+  font-family: Fantasy;
+  font-size: 22px;
+  padding: 10px;
+  left: 220px;
+  font-size: 25px;
+}
+.box {
+  position: relative;
+  width: 50px;
+  left: 25px;
+  bottom: 70px;
+}
+.checkbox {
+  position: relative;
+  left: 25px;
+  color: black;
+  background-color: green;
+  bottom: 10px;
+}
